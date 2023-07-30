@@ -1,1 +1,0 @@
-print("this is test for integrating git repository with jenkins!")
